@@ -50,6 +50,10 @@ $black			: #000;
 /* =================================== */
 /*  Basic Style 
 /* =================================== */
+#logo img{
+  width: 120px;
+  height: 60px;
+}
 ::-moz-selection {
   /* Code for Firefox */
   background-color: #0093df;
